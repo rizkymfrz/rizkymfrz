@@ -11,19 +11,20 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/rizkymfrz">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkymfrz&show_icons=true&include_all_commits=true&count_private=true&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkymfrz&show_icons=true&include_all_commits=true&count_private=true&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false&random=1" height="180" alt="stats graph"  />
   </a>
   <a href="https://github.com/rizkymfrz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymfrz&layout=compact&include_all_commits=true&count_private=true&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymfrz&layout=compact&include_all_commits=true&count_private=true&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false&random=1" height="180" alt="languages graph"  />
   </a>
 </div>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rizkymfrz&background=22212c&currStreakLabel=70dd6b&currStreakNum=fdf0d5&fire=e9d35f&ring=d56485&sideLabels=fdf0d5&sideNums=fdf0d5&dates=fdf0d5&border=e9d35f&hide_border=false" alt="streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rizkymfrz&background=22212c&currStreakLabel=70dd6b&currStreakNum=fdf0d5&fire=e9d35f&ring=d56485&sideLabels=fdf0d5&sideNums=fdf0d5&dates=fdf0d5&border=e9d35f&hide_border=false&random=1" alt="streak stats" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizkymfrz&no-frame=false&no-bg=false&margin-w=4&bg=22212c&title=70dd6b&text=fdf0d5" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizkymfrz&no-frame=false&no-bg=false&margin-w=4&bg=22212c&title=70dd6b&text=fdf0d5&random=1" alt="trophy" />
 </div>
 
 ### ✍️ Random Dev Quote
