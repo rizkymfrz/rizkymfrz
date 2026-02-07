@@ -1,7 +1,12 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://ztqkpxgzltzslyptpado.supabase.co/storage/v1/object/public/Image/banner.png" alt="Banner" width="100%" />
+</p>
+
 <!-- HEADER TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70DD6B&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Rizky+Maulana+%F0%9F%91%8B;Fullstack+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70DD6B&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Rizky+Maulana+%F0%9F%91%8B;Software+Engineer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
