@@ -1,9 +1,7 @@
-<!-- BANNER -->
 <p align="center">
   <img src="https://ztqkpxgzltzslyptpado.supabase.co/storage/v1/object/public/Image/banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- HEADER TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70DD6B&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Rizky+Maulana+%F0%9F%91%8B;Software+Engineer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -63,19 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/rizkymfrz/pilketos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkymfrz&repo=pilketos&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false" />
-  </a>
-  <a href="https://github.com/rizkymfrz/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizkymfrz&repo=portfolio&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false" />
-  </a>
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -130,15 +115,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rizkymfrz">
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkymfrz&show_icons=true&include_all_commits=true&count_private=true&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/rizkymfrz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymfrz&layout=compact&include_all_commits=true&count_private=true&bg_color=22212c&title_color=70dd6b&text_color=fdf0d5&icon_color=d56485&border_color=e9d35f&hide_border=false" height="180" alt="languages graph" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rizkymfrz&background=22212c&currStreakLabel=70dd6b&currStreakNum=fdf0d5&fire=e9d35f&ring=d56485&sideLabels=fdf0d5&sideNums=fdf0d5&dates=fdf0d5&border=e9d35f&hide_border=false" alt="streak stats" />
 </div>
 
@@ -165,14 +141,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizkymfrz&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
@@ -185,14 +153,6 @@
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rizkymfrz&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed" />
 </div>
 
 ---
